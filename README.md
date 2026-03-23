@@ -1,5 +1,7 @@
 >**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
 
+##Author
+Max Schmeckebier
 
 # Bikeshare Project
 
@@ -12,8 +14,8 @@ The program allows the user to analyze bikeshare data from different cities and 
 - bikeshare_2.py
 - README.md
 
-## Information about how to use your project
-Run the Python file in the terminal and follow the prompts.
+## How to Run
+Run the Python file in the terminal and follow the prompts to explore bikeshare data.
 
 ## Contribution guidelines
 
