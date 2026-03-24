@@ -11,7 +11,7 @@ This project explores bikeshare data using Python.
 The program allows the user to analyze bikeshare data from different cities and view statistics.
 
 ## Files
-- bikeshare_2.py
+- bikeshare.py
 - README.md
 
 ## How to Run
