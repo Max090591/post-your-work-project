@@ -1,30 +1,26 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+# Bikeshare Project
 
 ##Author
 Max Schmeckebier
 
-# Bikeshare Project
-
-This project explores bikeshare data using Python.
-
 ## Description
+This project explores bikeshare data using Python.  
 The program allows the user to analyze bikeshare data from different cities and view statistics.
 
 ## Files
-- bikeshare_2.py
+- bikeshare.py
 - README.md
 
 ## How to Run
 Run the Python file in the terminal and follow the prompts to explore bikeshare data.
 
 ## Contribution guidelines
-
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+This project was created as part of a Udacity course project. Contributions are not required, but suggestions and improvements are welcome.
 
 ## Credits
-
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project was completed as part of the Udacity Introduction to Version Control course.
+GitHub: https://github.com/
+Udacity: https://www.udacity.com/
 
 ## Date created
-
-Include the date you created this project and README file.
+March 24, 2026
